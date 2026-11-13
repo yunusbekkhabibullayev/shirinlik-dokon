@@ -1,0 +1,51 @@
+{
+  "name": "Shirinlik Do'koni — Buyurtmalar Daftari",
+  "short_name": "Shirinlik",
+  "description": "Uyda ishlovchi qandolatchi ustaning buyurtmalar daftari va boshqaruv tizimi",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#CC1122",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["business", "productivity", "food"],
+  "shortcuts": [
+    {
+      "name": "Buyurtmalar",
+      "url": "/",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Statistika",
+      "url": "/",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
+
